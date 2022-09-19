@@ -4,3 +4,4 @@ A tool for exploring the Byzantine Textform of the GNT by [Robinson and Pierpont
 
 
 * [librobsinons](https://github.com/byztxt/librobinson)
+* [strongs-dictionary-xml](https://github.com/morphgnt/strongs-dictionary-xml)
